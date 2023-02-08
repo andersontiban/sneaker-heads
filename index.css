@@ -25,62 +25,60 @@ Images:
 - "https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg"
     - (You may use any image you would like for the background!)
 */
-body{
-    background-image: url("https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg");
-    background-size: cover;
+body {
+	background-image: url('https://i.pinimg.com/236x/d6/3f/56/d63f563519df0ece564b82c72e9e306c.jpg');
+	background-size: cover;
 }
-h1{
-    background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
-    text-align: center;
-    width: 40%;
-    margin: auto;
-    padding: 10px;
-    border-radius: 0.75em;
-    color: purple;
-    text-shadow: #FC0 1px 0 10px;
-    text-decoration: underline;
-}
-
-#row1{
-    width: 50%;
-    margin: auto;
-}
-#jordans-1{
-    height: 30%;
-    width: 50%;
-    border: solid blue 3px;
-}
-#jordans-1-desc{
-    padding: 5px;
-    background-color: lightblue;
-    width: 50%;
-    border-radius: 0.75em;
-    border:solid red 3px;
-    color:white;
+h1 {
+	background: linear-gradient(to bottom, #33ccff 0%, #ff99cc 100%);
+	text-align: center;
+	width: 40%;
+	margin: auto;
+	padding: 10px;
+	border-radius: 0.75em;
+	color: purple;
+	text-shadow: #fc0 1px 0 10px;
+	text-decoration: underline;
 }
 
-#row2{
-    width: 50%;
-    margin: auto;
-
+#row1 {
+	width: 50%;
+	margin: auto;
+}
+#jordans-1 {
+	height: 30%;
+	width: 50%;
+	border: solid blue 3px;
+}
+#jordans-1-desc {
+	padding: 5px;
+	background-color: lightblue;
+	width: 50%;
+	border-radius: 0.75em;
+	border: solid red 3px;
+	color: white;
 }
 
-#jordans-2{
-    height: 30%;
-    width: 50%;
-    border: solid red 3px;
-    display: block;
-    float: right;
+#row2 {
+	width: 50%;
+	margin: auto;
 }
-#jordans-2-desc{
-    display: block;
-    padding-top: 40%;
-    width: 50%;
-    text-align: center;
-    padding-left: 50%;
-    color: white;
 
+#jordans-2 {
+	height: 30%;
+	width: 50%;
+	border: solid red 3px;
+	display: block;
+	float: right;
 }
-#row2-section1{
-    margin: auto;
+#jordans-2-desc {
+	display: block;
+	padding-top: 40%;
+	width: 50%;
+	text-align: center;
+	padding-left: 50%;
+	color: white;
+}
+#row2-section1 {
+	margin: auto;
 }
